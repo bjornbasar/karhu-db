@@ -1,6 +1,6 @@
 # karhu-db — Code Tour
 
-> A **reading-guide map**, and a short **reference appendix** — outside the ten-tour sequence. Read [karhu](../karhu/CODE-TOUR.md) first; this is one of its companion packages. Two classes, ~270 lines, and a clear thesis: **every query is a prepared statement, without exception.**
+> A **reading-guide map**, and a short **reference appendix** — outside the eleven-tour sequence. Read [karhu](../karhu/CODE-TOUR.md) first; this is one of its companion packages. Two classes, ~270 lines, and a clear thesis: **every query is a prepared statement, without exception.**
 >
 > **How to use it:** §1 why this package exists at all; §2 `Connection`; §3 `TableBase`; §4 exercises. Twenty minutes.
 
@@ -63,4 +63,4 @@ final class UserTable extends TableBase {
 
 ---
 
-*Tour covers karhu-db @ `81032ec`. A reference appendix — the ten-tour sequence ends at [koda-blast](../koda-blast/CODE-TOUR.md). Engine: [karhu](../karhu/CODE-TOUR.md). Consumers: [mishka](../mishka/CODE-TOUR.md), [istrbuddy](../istrbuddy/CODE-TOUR.md).*
+*Tour covers karhu-db @ `81032ec`. A reference appendix — the eleven-tour sequence ends at [karu](../karu/CODE-TOUR.md). Engine: [karhu](../karhu/CODE-TOUR.md). Consumers: [mishka](../mishka/CODE-TOUR.md), [istrbuddy](../istrbuddy/CODE-TOUR.md).*
